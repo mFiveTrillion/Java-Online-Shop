@@ -1,17 +1,8 @@
-/***
+/*
 
- * 
+ Name: Hayden Richard-Marsters
 
- * Student Name: Hayden Richard-Marsters
-
- * Student ID: 21152003
-
- * Course Code: COMP503 
-
- * Assessment Item: Assessment A
-
- * 
- **/
+ */
 
 
 package onlineShop;
